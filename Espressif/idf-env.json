@@ -1,0 +1,17 @@
+{
+    "idfInstalled": {
+        "D:\\Sotatek\\espDev\\Espressif\\frameworks\\esp-idf-v5.0.2-v5.0": {
+            "version": "5.0",
+            "path": "D:\\Sotatek\\espDev\\Espressif\\frameworks\\esp-idf-v5.0.2",
+            "features": [
+                "core"
+            ],
+            "targets": [
+                "esp32s3",
+                "esp32",
+                "esp32s2",
+                "esp32c3"
+            ]
+        }
+    }
+}

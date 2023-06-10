@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "esp_log.h": "c",
+        "gpio.h": "c",
+        "input_iot.h": "c",
+        "*.inc": "c",
+        "complex": "c",
+        "sdkconfig.h": "c"
+    }
+}
